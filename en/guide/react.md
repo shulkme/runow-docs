@@ -4,7 +4,7 @@
 
 `react` `typescript-swc` `vite`
 
-快速创建
+Quick Start
 
 ::: code-group
 
@@ -26,7 +26,7 @@ $ bun create runow your-app-name --template react-ts
 
 :::
 
-[在线预览](https://demo.runow.dev/react-ts)
+[Online Preview](https://demo.runow.dev/react-ts)
 
 
 ## React + Next.js + NextUI
@@ -34,7 +34,7 @@ $ bun create runow your-app-name --template react-ts
 
 `react` `next.js` `next-ui` `typescript-swc` `vite`
 
-快速创建
+Quick Start
 
 ::: code-group
 
@@ -56,4 +56,4 @@ $ bun create runow your-app-name --template react-nextjs-nextui
 
 :::
 
-[在线预览](https://demo.runow.dev/react-nextjs-nextui)
+[Online Preview](https://demo.runow.dev/react-nextjs-nextui)

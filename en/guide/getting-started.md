@@ -1,9 +1,9 @@
-# 开始
+# Getting Started
 
-## 创建第一个Runow项目
+## Scaffolding Your First Runow Project
 
-::: tip 兼容性注意
-Runow 需要 Node.js 版本 18+ 或 20+。然而，有些模板需要依赖更高的 Node 版本才能正常运行，当你的包管理器发出警告时，请注意升级你的 Node 版本。
+::: tip Compatibility Note
+Runow requires [Node.js](https://nodejs.org/en/) version 18+ or 20+. However, some templates require a higher Node.js version to work, please upgrade if your package manager warns about it.
 :::
 
 ::: code-group
@@ -26,9 +26,10 @@ $ bun create runow
 
 :::
 
-然后按照提示操作即可！
 
-你还可以通过附加的命令行选项直接指定项目名称和你想要使用的模板。例如，要构建一个 React + TypeScript 项目，运行:
+Then follow the prompts!
+
+You can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a React + TypeScript project, run:
 
 
 ::: code-group
