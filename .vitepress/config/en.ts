@@ -12,7 +12,7 @@ export const en = defineConfig({
 
     sidebar: {
       '/guide/': {
-        base: '/en/guide/',
+        base: '/guide/',
         items: [
           {
             text: 'Guide',
