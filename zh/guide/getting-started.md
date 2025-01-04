@@ -34,7 +34,8 @@ $ bun create runow
 ::: code-group
 
 ```bash [npm]
-$ npm create runow@latest your-app-name --template react-ts
+# npm 7+，需要添加额外的 --：
+$ npm create runow@latest your-app-name -- --template react-ts
 ```
 
 ```bash [Yarn]

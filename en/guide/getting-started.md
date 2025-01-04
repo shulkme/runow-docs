@@ -35,7 +35,8 @@ You can also directly specify the project name and the template you want to use 
 ::: code-group
 
 ```bash [npm]
-$ npm create runow@latest your-app-name --template react-ts
+# npm 7+, extra double-dash is needed:
+$ npm create runow@latest your-app-name -- --template react-ts
 ```
 
 ```bash [Yarn]

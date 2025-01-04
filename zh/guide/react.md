@@ -9,7 +9,8 @@
 ::: code-group
 
 ```bash [npm]
-$ npm create runow@latest your-app-name --template react-ts
+# npm 7+，需要添加额外的 --：
+$ npm create runow@latest your-app-name -- --template react-ts
 ```
 
 ```bash [Yarn]
@@ -39,7 +40,8 @@ $ bun create runow your-app-name --template react-ts
 ::: code-group
 
 ```bash [npm]
-$ npm create runow@latest your-app-name --template react-nextjs-nextui
+# npm 7+，需要添加额外的 --：
+$ npm create runow@latest your-app-name -- --template react-nextjs-nextui
 ```
 
 ```bash [Yarn]

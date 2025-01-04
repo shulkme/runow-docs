@@ -9,7 +9,8 @@ Quick Start
 ::: code-group
 
 ```bash [npm]
-$ npm create runow@latest your-app-name --template react-ts
+# npm 7+, extra double-dash is needed:
+$ npm create runow@latest your-app-name -- --template react-ts
 ```
 
 ```bash [Yarn]
@@ -39,7 +40,8 @@ Quick Start
 ::: code-group
 
 ```bash [npm]
-$ npm create runow@latest your-app-name --template react-nextjs-nextui
+# npm 7+, extra double-dash is needed:
+$ npm create runow@latest your-app-name -- --template react-nextjs-nextui
 ```
 
 ```bash [Yarn]
