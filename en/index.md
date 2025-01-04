@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: What is Runow?
-      link: /en/guide/what-is-runow
+      link: /guide/what-is-runow
     - theme: alt
       text: Quickstart
-      link: /en/guide/getting-started
+      link: /guide/getting-started
     - theme: alt
       text: GitHub
       link: https://github.com/runowjs/runow

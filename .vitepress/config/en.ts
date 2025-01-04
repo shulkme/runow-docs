@@ -5,8 +5,8 @@ export const en = defineConfig({
   description: 'A quick tool to craft JavaScript apps',
   themeConfig: {
     nav: [
-      { text: 'Guide', link: '/en/guide/what-is-runow' },
-      { text: 'Demo', link: '/en/demo' },
+      { text: 'Guide', link: '/guide/what-is-runow' },
+      { text: 'Demo', link: '/demo' },
       { text: 'Changelog', link: 'https://github.com/runowjs/runow/blob/main/CHANGELOG.md' },
     ],
 
