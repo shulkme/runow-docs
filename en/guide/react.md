@@ -2,7 +2,7 @@
 
 ## React + TypeScript
 
-`react` `typescript-swc` `vite`
+<LogoBadge name="react" /> <LogoBadge name="ts" /> <LogoBadge name="vite" />
 
 Quick Start
 
@@ -32,8 +32,7 @@ $ bun create runow your-app-name --template react-ts
 
 ## React + Next.js + NextUI
 
-
-`react` `next.js` `next-ui` `typescript-swc` `vite`
+<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="next-ui" /> <LogoBadge name="ts" /> <LogoBadge name="vite" />
 
 Quick Start
 
