@@ -1,5 +1,4 @@
-<!-- docs/.vitepress/components/LogoBadge.vue -->
-<script setup>
+<script setup lang="ts">
 import { computed } from 'vue'
 import logos from './logos.ts';
 const props = defineProps({
