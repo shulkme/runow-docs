@@ -12,7 +12,7 @@ Runow 需要 Node.js 版本 18+ 或 20+。然而，有些模板需要依赖更�
 $ npm create runow@latest
 ```
 
-```bash [Yarn]
+```bash [yarn]
 $ yarn create runow
 ```
 
@@ -20,7 +20,7 @@ $ yarn create runow
 $ pnpm create runow
 ```
 
-```bash [Bun]
+```bash [bun]
 $ bun create runow
 ```
 
@@ -38,7 +38,7 @@ $ bun create runow
 $ npm create runow@latest your-app-name -- --template react-ts
 ```
 
-```bash [Yarn]
+```bash [yarn]
 $ yarn create runow your-app-name --template react-ts
 ```
 
@@ -46,7 +46,7 @@ $ yarn create runow your-app-name --template react-ts
 $ pnpm create runow your-app-name --template react-ts
 ```
 
-```bash [Bun]
+```bash [bun]
 $ bun create runow your-app-name --template react-ts
 ```
 

@@ -12,7 +12,7 @@ Runow requires [Node.js](https://nodejs.org/en/) version 18+ or 20+. However, so
 $ npm create runow@latest
 ```
 
-```bash [Yarn]
+```bash [yarn]
 $ yarn create runow
 ```
 
@@ -20,7 +20,7 @@ $ yarn create runow
 $ pnpm create runow
 ```
 
-```bash [Bun]
+```bash [bun]
 $ bun create runow
 ```
 
@@ -39,7 +39,7 @@ You can also directly specify the project name and the template you want to use 
 $ npm create runow@latest your-app-name -- --template react-ts
 ```
 
-```bash [Yarn]
+```bash [yarn]
 $ yarn create runow your-app-name --template react-ts
 ```
 
@@ -47,7 +47,7 @@ $ yarn create runow your-app-name --template react-ts
 $ pnpm create runow your-app-name --template react-ts
 ```
 
-```bash [Bun]
+```bash [bun]
 $ bun create runow your-app-name --template react-ts
 ```
 

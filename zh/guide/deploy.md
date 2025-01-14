@@ -17,12 +17,35 @@
 
 ## 本地开发
 
-```bash
+::: code-group
+```bash [npm]
 $ npm run dev
 ```
+```bash [yarn]
+$ yarn dev
+```
+```bash [pnpm]
+$ pnpm dev
+```
+```bash [bun]
+$ bun run dev
+```
+:::
 
 ## 构建应用
 
-```bash
+
+::: code-group
+```bash [npm]
 $ npm run build
 ```
+```bash [yarn]
+$ yarn build
+```
+```bash [pnpm]
+$ pnpm build
+```
+```bash [bun]
+$ bun run build
+```
+:::
