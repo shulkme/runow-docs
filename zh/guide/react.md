@@ -61,7 +61,7 @@ $ bun create runow your-app-name --template react-antd
 
 ## React + Next.js + NextUI
 
-<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="next-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" /> <LogoBadge name="vite" />
+<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="next-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
 
 快速创建
 
@@ -87,3 +87,33 @@ $ bun create runow your-app-name --template react-nextjs-nextui
 :::
 
 [在线预览](https://demo.runow.dev/react-nextjs-nextui)
+
+
+## React + Next.js + HeadlessUI
+
+<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="headless-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
+
+快速创建
+
+::: code-group
+
+```bash [npm]
+# npm 7+，需要添加额外的 --：
+$ npm create runow@latest your-app-name -- --template react-nextjs-headlessui
+```
+
+```bash [yarn]
+$ yarn create runow your-app-name --template react-nextjs-headlessui
+```
+
+```bash [pnpm]
+$ pnpm create runow your-app-name --template react-nextjs-headlessui
+```
+
+```bash [bun]
+$ bun create runow your-app-name --template react-nextjs-headlessui
+```
+
+:::
+
+[在线预览](https://demo.runow.dev/react-nextjs-headlessui)

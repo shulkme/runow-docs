@@ -83,4 +83,10 @@ export default [
     value: 'lucide',
     color: 'F56565',
   },
+  {
+    label: 'HeadlessUI',
+    icon: 'headlessui',
+    value: 'headless-ui',
+    color: '66E3FF',
+  },
 ];
