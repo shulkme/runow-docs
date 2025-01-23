@@ -27,7 +27,7 @@ $ bun create runow your-app-name --template react-ts
 
 :::
 
-[Online Preview](https://demo.runow.dev/react-ts)
+[Online Preview](https://react-ts.runow.dev/)
 
 
 ## React + Antd
@@ -57,7 +57,7 @@ $ bun create runow your-app-name --template react-antd
 
 :::
 
-[Online Preview](https://demo.runow.dev/react-antd)
+[Online Preview](https://react-antd.runow.dev/)
 
 ## React + Next.js + NextUI
 
@@ -86,7 +86,7 @@ $ bun create runow your-app-name --template react-nextjs-nextui
 
 :::
 
-[Online Preview](https://demo.runow.dev/react-nextjs-nextui)
+[Online Preview](https://react-nextjs-nextui.runow.dev/)
 
 
 ## React + Next.js + HeadlessUI
@@ -116,4 +116,4 @@ $ bun create runow your-app-name --template react-nextjs-headlessui
 
 :::
 
-[Online Preview](https://demo.runow.dev/react-nextjs-headlessui)
+[Online Preview](https://react-nextjs-headlessui.runow.dev/)

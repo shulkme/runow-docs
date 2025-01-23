@@ -6,8 +6,11 @@ export const zh = defineConfig({
   themeConfig: {
     nav: [
       { text: '指南', link: '/zh/guide/what-is-runow' },
-      { text: '预览', link: '/zh/demo' },
-      { text: '更新日志', link: 'https://github.com/runowjs/runow/blob/main/CHANGELOG.md' },
+      { text: '案例', link: '/zh/uses' },
+      {
+        text: '更新日志',
+        link: 'https://github.com/runowjs/runow/blob/main/CHANGELOG.md',
+      },
     ],
 
     sidebar: {
@@ -50,7 +53,7 @@ export const zh = defineConfig({
               { text: '框架', link: 'framework' },
               { text: '测试', link: 'test' },
             ],
-          }
+          },
         ],
       },
     },

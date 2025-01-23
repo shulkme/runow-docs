@@ -6,8 +6,11 @@ export const en = defineConfig({
   themeConfig: {
     nav: [
       { text: 'Guide', link: '/guide/what-is-runow' },
-      { text: 'Demo', link: '/demo' },
-      { text: 'Changelog', link: 'https://github.com/runowjs/runow/blob/main/CHANGELOG.md' },
+      { text: 'Uses', link: '/uses' },
+      {
+        text: 'Changelog',
+        link: 'https://github.com/runowjs/runow/blob/main/CHANGELOG.md',
+      },
     ],
 
     sidebar: {
@@ -50,7 +53,7 @@ export const en = defineConfig({
               { text: 'Framework', link: 'framework' },
               { text: 'Test', link: 'test' },
             ],
-          }
+          },
         ],
       },
     },
