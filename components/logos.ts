@@ -89,4 +89,10 @@ export default [
     value: 'headless-ui',
     color: '66E3FF',
   },
+  {
+    label: 'ShadcnUI',
+    icon: 'shadcnui',
+    value: 'shadcn-ui',
+    color: '000000',
+  },
 ];

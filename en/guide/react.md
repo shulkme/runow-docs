@@ -30,7 +30,7 @@ $ bun create runow your-app-name --template react-ts
 [Online Preview](https://react-ts.runow.dev/)
 
 
-## React + Antd
+## React + Ant Design
 
 <LogoBadge name="react" /> <LogoBadge name="antd" /> <LogoBadge name="react-router" /> <LogoBadge name="lucide" /> <LogoBadge name="ts" /> <LogoBadge name="vite" />
 
@@ -117,3 +117,34 @@ $ bun create runow your-app-name --template react-nextjs-headlessui
 :::
 
 [Online Preview](https://react-nextjs-headlessui.runow.dev/)
+
+
+## React + Next.js + ShadcnUI
+
+<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="shadcn-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
+
+Quick Start
+
+::: code-group
+
+```bash [npm]
+# npm 7+, extra double-dash is needed:
+$ npm create runow@latest your-app-name -- --template react-nextjs-shadcnui
+```
+
+```bash [yarn]
+$ yarn create runow your-app-name --template react-nextjs-shadcnui
+```
+
+```bash [pnpm]
+$ pnpm create runow your-app-name --template react-nextjs-shadcnui
+```
+
+```bash [bun]
+$ bun create runow your-app-name --template react-nextjs-shadcnui
+```
+
+:::
+
+[Online Preview](https://react-nextjs-shadcnui.runow.dev/)
+
