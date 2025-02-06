@@ -10,11 +10,11 @@ hero:
   tagline: A quick tool to create JavaScript app
   actions:
     - theme: brand
+      text: Quickstart
+      link: /quick-start
+    - theme: alt
       text: What is Runow?
       link: /guide/what-is-runow
-    - theme: alt
-      text: Quickstart
-      link: /guide/getting-started
     - theme: alt
       text: GitHub
       link: https://github.com/runowjs/runow

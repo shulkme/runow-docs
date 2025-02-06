@@ -1,10 +1,11 @@
 import { defineConfig } from 'vitepress';
 
-export const en = defineConfig({
+export const enConfig = defineConfig({
   lang: 'en-US',
   description: 'A quick tool to craft JavaScript apps',
   themeConfig: {
     nav: [
+      { text: 'Quick Start', link: '/quick-start' },
       { text: 'Guide', link: '/guide/what-is-runow' },
       { text: 'Uses', link: '/uses' },
       {
@@ -33,15 +34,48 @@ export const en = defineConfig({
             text: 'Template',
             collapsed: false,
             items: [
-              { text: 'React', link: 'react' },
-              { text: 'Vue', link: 'vue' },
-              { text: 'Angular', link: 'angular' },
-              { text: 'Solid', link: 'solid' },
-              { text: 'Svelte', link: 'svelte' },
-              { text: 'Vanilla', link: 'vanilla' },
-              { text: 'Mini Program', link: 'mini-program' },
-              { text: 'Quick App', link: 'quick-app' },
-              { text: 'Native', link: 'native' },
+              {
+                text: 'React',
+                items: [
+                  { text: 'Vite', link: 'react/vite' },
+                  { text: 'Next', link: 'react/next' },
+                  { text: 'Remix', link: 'react/remix' },
+                ],
+              },
+              {
+                text: 'Vue',
+                items: [
+                  { text: 'Vite', link: 'vue/vite' },
+                  { text: 'Nuxt', link: 'vue/nuxt' },
+                ],
+              },
+              {
+                text: 'Angular',
+                items: [{ text: 'Vite', link: 'angular/vite' }],
+              },
+              { text: 'Solid', items: [{ text: 'Vite', link: 'solid/vite' }] },
+              {
+                text: 'Svelte',
+                items: [{ text: 'Vite', link: 'svelte/vite' }],
+              },
+              {
+                text: 'Astro',
+                items: [{ text: 'Vite', link: 'astro/vite' }],
+              },
+              {
+                text: 'Vanilla',
+                items: [{ text: 'Vite', link: 'vanilla/vite' }],
+              },
+              {
+                text: 'Cross',
+                items: [
+                  { text: 'Electron', link: 'cross/electron' },
+                  { text: 'Flutter', link: 'cross/flutter' },
+                  { text: 'Uni-app', link: 'cross/uni-app' },
+                  { text: 'ionic', link: 'cross/ionic' },
+                  { text: 'expo', link: 'cross/expo' },
+                ],
+              },
             ],
           },
           {
@@ -59,3 +93,5 @@ export const en = defineConfig({
     },
   },
 });
+
+export default enConfig;

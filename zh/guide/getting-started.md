@@ -28,26 +28,26 @@ $ bun create runow
 
 然后按照提示操作即可！
 
-你还可以通过附加的命令行选项直接指定项目名称和你想要使用的模板。例如，要构建一个 React + TypeScript 项目，运行:
+你还可以通过附加的命令行选项直接指定项目名称和你想要使用的模板。例如，要构建一个 React + Vite 项目，运行:
 
 
 ::: code-group
 
 ```bash [npm]
 # npm 7+，需要添加额外的 --：
-$ npm create runow@latest your-app-name -- --template react-ts
+$ npm create runow@latest your-app-name -- --template react-vite
 ```
 
 ```bash [yarn]
-$ yarn create runow your-app-name --template react-ts
+$ yarn create runow your-app-name --template react-vite
 ```
 
 ```bash [pnpm]
-$ pnpm create runow your-app-name --template react-ts
+$ pnpm create runow your-app-name --template react-vite
 ```
 
 ```bash [bun]
-$ bun create runow your-app-name --template react-ts
+$ bun create runow your-app-name --template react-vite
 ```
 
 :::

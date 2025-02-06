@@ -95,4 +95,40 @@ export default [
     value: 'shadcn-ui',
     color: '000000',
   },
+  {
+    label: 'Electron',
+    icon: 'electron',
+    value: 'electron',
+    color: '47848F',
+  },
+  {
+    label: 'Flutter',
+    icon: 'flutter',
+    value: 'flutter',
+    color: '02569B',
+  },
+  {
+    label: 'Uni--app',
+    icon: 'unpkg',
+    value: 'uni-app',
+    color: '2c9941',
+  },
+  {
+    label: 'Ionic',
+    icon: 'ionic',
+    value: 'ionic',
+    color: '3880FF',
+  },
+  {
+    label: 'Expo',
+    icon: 'expo',
+    value: 'expo',
+    color: '1C2024',
+  },
+  {
+    label: 'Astro',
+    icon: 'astro',
+    value: 'astro',
+    color: 'BC52EE',
+  },
 ];

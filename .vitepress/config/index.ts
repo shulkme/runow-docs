@@ -1,19 +1,21 @@
 import { defineConfig } from 'vitepress';
-import { en } from './en';
-import { shared } from './shared';
-import { zh } from './zh';
+import enConfig from './en';
+import sharedConfig from './shared';
+import viteConfig from './vite';
+import zhConfig from './zh';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  ...shared,
+  ...viteConfig,
+  ...sharedConfig,
   locales: {
     root: {
       label: 'English',
-      ...en,
+      ...enConfig,
     },
     zh: {
       label: '简体中文',
-      ...zh,
+      ...zhConfig,
     },
   },
 });

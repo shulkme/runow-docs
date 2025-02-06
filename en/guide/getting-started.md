@@ -29,26 +29,26 @@ $ bun create runow
 
 Then follow the prompts!
 
-You can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a React + TypeScript project, run:
+You can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a React + Vite project, run:
 
 
 ::: code-group
 
 ```bash [npm]
 # npm 7+, extra double-dash is needed:
-$ npm create runow@latest your-app-name -- --template react-ts
+$ npm create runow@latest your-app-name -- --template react-vite
 ```
 
 ```bash [yarn]
-$ yarn create runow your-app-name --template react-ts
+$ yarn create runow your-app-name --template react-vite
 ```
 
 ```bash [pnpm]
-$ pnpm create runow your-app-name --template react-ts
+$ pnpm create runow your-app-name --template react-vite
 ```
 
 ```bash [bun]
-$ bun create runow your-app-name --template react-ts
+$ bun create runow your-app-name --template react-vite
 ```
 
 :::
