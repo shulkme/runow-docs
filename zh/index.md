@@ -10,11 +10,11 @@ hero:
   tagline: 一个快速创建 JavaScript 应用程序的工具
   actions:
     - theme: brand
+      text: 快速开始
+      link: /zh/quick-start
+    - theme: alt
       text: 什么是 Runow?
       link: /zh/guide/what-is-runow
-    - theme: alt
-      text: 快速开始
-      link: /zh/guide/getting-started
     - theme: alt
       text: GitHub
       link: https://github.com/runowjs/runow

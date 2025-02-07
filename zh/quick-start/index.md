@@ -13,6 +13,6 @@ layout: frame-layout
 <RadioCard href="svelte" label="Svelte" icon="https://cdn.svgporn.com/logos/svelte-icon.svg"/>
 <RadioCard href="astro" label="Astro" icon="https://cdn.svgporn.com/logos/astro-icon.svg" />
 <RadioCard href="vanilla" label="Vanilla" icon="https://cdn.svgporn.com/logos/javascript.svg" />
-<RadioCard href="cross" label="Cross" icon="https://cdn.svgporn.com/logos/crossplane-icon.svg" />
+<RadioCard href="cross" label="跨平台" icon="https://cdn.svgporn.com/logos/crossplane-icon.svg" />
 
 </RadioGroup>
