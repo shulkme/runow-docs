@@ -2,7 +2,7 @@
 layout: frame-layout
 ---
 
-# 2. Choose your preferred framework:
+# 2. Select a framework:
 
 <RadioGroup>
 

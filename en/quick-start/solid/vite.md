@@ -2,7 +2,7 @@
 layout: frame-layout
 ---
 
-# 3. Choose your favorite UI:
+# 3. Select a uikit:
 
 <RadioGroup>
 

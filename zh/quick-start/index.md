@@ -2,7 +2,7 @@
 layout: frame-layout
 ---
 
-# 1. 选择您主要的技术栈:
+# 1. 选择一种技术栈:
 
 <RadioGroup>
 

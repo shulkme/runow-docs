@@ -2,7 +2,7 @@
 layout: frame-layout
 ---
 
-# 3. 选择您喜欢的 UI:
+# 3. 选择一套UI库:
 
 <RadioGroup>
 

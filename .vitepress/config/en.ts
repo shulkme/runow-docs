@@ -7,7 +7,7 @@ export const enConfig = defineConfig({
     nav: [
       { text: 'Quick Start', link: '/quick-start' },
       { text: 'Guide', link: '/guide/what-is-runow' },
-      { text: 'Uses', link: '/uses' },
+      { text: 'Showcase', link: '/showcase' },
       {
         text: 'Changelog',
         link: 'https://github.com/runowjs/runow/blob/main/CHANGELOG.md',

@@ -2,7 +2,7 @@
 layout: frame-layout
 ---
 
-# 1. Choose your primary technology stack:
+# 1. Select a stack:
 
 <RadioGroup>
 

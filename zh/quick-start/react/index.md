@@ -2,7 +2,7 @@
 layout: frame-layout
 ---
 
-# 2. 选择您常用的框架:
+# 2. 选择一个框架:
 
 <RadioGroup>
 

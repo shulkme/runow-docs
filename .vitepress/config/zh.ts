@@ -7,7 +7,7 @@ export const zhConfig = defineConfig({
     nav: [
       { text: '快速开始', link: '/zh/quick-start' },
       { text: '指南', link: '/zh/guide/what-is-runow' },
-      { text: '案例', link: '/zh/uses' },
+      { text: '案例', link: '/zh/showcase' },
       {
         text: '更新日志',
         link: 'https://github.com/runowjs/runow/blob/main/CHANGELOG.md',
