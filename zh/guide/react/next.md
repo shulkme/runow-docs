@@ -29,7 +29,6 @@ $ bun create runow your-app-name --template react-nextjs-nextui
 
 :::
 
-[在线预览](https://react-nextjs-nextui.runow.dev/)
 
 
 
@@ -60,7 +59,6 @@ $ bun create runow your-app-name --template react-nextjs-headlessui
 
 :::
 
-[在线预览](https://react-nextjs-headlessui.runow.dev/)
 
 
 ## Shadcn UI
@@ -89,6 +87,4 @@ $ bun create runow your-app-name --template react-nextjs-shadcnui
 ```
 
 :::
-
-[在线预览](https://react-nextjs-shadcnui.runow.dev/)
 

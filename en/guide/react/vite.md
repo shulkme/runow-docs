@@ -30,7 +30,6 @@ $ bun create runow your-app-name --template react-vite
 
 :::
 
-[Online Preview](https://react-vite.runow.dev/)
 
 
 ## Tailwind CSS
@@ -60,7 +59,6 @@ $ bun create runow your-app-name --template react-vite-tw
 
 :::
 
-[Online Preview](https://react-vite-tw.runow.dev/)
 
 
 
@@ -91,4 +89,3 @@ $ bun create runow your-app-name --template react-vite-antd
 
 :::
 
-[Online Preview](https://react-vite-antd.runow.dev/)

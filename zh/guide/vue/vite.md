@@ -29,7 +29,6 @@ $ bun create runow your-app-name --template vue-vite
 
 :::
 
-[在线预览](https://vue-vite.runow.dev/)
 
 
 ## Ant Design Vue
@@ -59,4 +58,3 @@ $ bun create runow your-app-name --template vue-vite-antdv
 
 :::
 
-[在线预览](https://vue-vite-antdv.runow.dev/)
