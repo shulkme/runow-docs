@@ -9,6 +9,7 @@ layout: showcase-layout
 <ShowcaseGroup>
 
 <ShowcaseCard link="https://react-antd-admin.runow.dev/" title="React Antd Admin" author="Runow" cover="https://github.com/runowjs/react-antd-admin/raw/main/screenshots/users.png" description="一个开箱即用的中后台框架，由Runow开始并创建的" framework="react" />
+<ShowcaseCard link="https://react-admin-livid.vercel.app/" title="React Admin" author="Shulkme" cover="https://github.com/shulkme/react-admin/raw/main/public/screenshot.png" description="基于React开箱即用的企业级中后台框架" framework="react" />
 
 
 </ShowcaseGroup>

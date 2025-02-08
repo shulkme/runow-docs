@@ -72,12 +72,22 @@ const props = defineProps({
   font-size: 16px;
   font-weight: bold;
   margin: 0 0 8px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  height: 24px;
 }
 .showcase-card_bd__description {
+  height: 34px;
   font-size: 14px;
   margin: 0;
   line-height: 1.2;
   color: var(--vp-c-text-2);
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 .showcase-card_ft {
