@@ -12,7 +12,7 @@ export const sharedConfig = defineConfig({
       { icon: 'github', link: 'https://github.com/runowjs/runow' },
       {
         icon: 'discord',
-        link: 'https://discord.gg/RK5HNEWQ',
+        link: 'https://discord.com/invite/bVsEymHG58',
       },
     ],
   },
