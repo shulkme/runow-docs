@@ -2,6 +2,34 @@
 
 > All templates are based on React and Next.js
 
+
+## TailwindCSS
+
+<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
+
+Quick Start
+
+::: code-group
+
+```bash [npm]
+# npm 7+, extra double-dash is needed:
+$ npm create runow@latest your-app-name -- --template react-nextjs-tailwindcss
+```
+
+```bash [yarn]
+$ yarn create runow your-app-name --template react-nextjs-tailwindcss
+```
+
+```bash [pnpm]
+$ pnpm create runow your-app-name --template react-nextjs-tailwindcss
+```
+
+```bash [bun]
+$ bun create runow your-app-name --template react-nextjs-tailwindcss
+```
+
+:::
+
 ## NextUI
 
 <LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="next-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
