@@ -2,6 +2,35 @@
 
 > 所有模版均基于 React 和 Next.js
 
+
+## Blank
+
+<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="ts" />
+
+快速开始
+
+::: code-group
+
+```bash [npm]
+# npm 7+，需要添加额外的 --：
+$ npm create runow@latest your-app-name -- --template react-nextjs
+```
+
+```bash [yarn]
+$ yarn create runow your-app-name --template react-nextjs
+```
+
+```bash [pnpm]
+$ pnpm create runow your-app-name --template react-nextjs
+```
+
+```bash [bun]
+$ bun create runow your-app-name --template react-nextjs
+```
+
+:::
+
+
 ## Tailwind CSS
 
 <LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
