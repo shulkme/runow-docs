@@ -12,19 +12,19 @@ Quick Start
 
 ```bash [npm]
 # npm 7+, extra double-dash is needed:
-$ npm create runow@latest your-app-name -- --template react-nextjs
+$ npm create runow@latest your-app-name -- --template react-next
 ```
 
 ```bash [yarn]
-$ yarn create runow your-app-name --template react-nextjs
+$ yarn create runow your-app-name --template react-next
 ```
 
 ```bash [pnpm]
-$ pnpm create runow your-app-name --template react-nextjs
+$ pnpm create runow your-app-name --template react-next
 ```
 
 ```bash [bun]
-$ bun create runow your-app-name --template react-nextjs
+$ bun create runow your-app-name --template react-next
 ```
 
 :::
@@ -40,19 +40,19 @@ Quick Start
 
 ```bash [npm]
 # npm 7+, extra double-dash is needed:
-$ npm create runow@latest your-app-name -- --template react-nextjs-tailwindcss
+$ npm create runow@latest your-app-name -- --template react-next-tailwindcss
 ```
 
 ```bash [yarn]
-$ yarn create runow your-app-name --template react-nextjs-tailwindcss
+$ yarn create runow your-app-name --template react-next-tailwindcss
 ```
 
 ```bash [pnpm]
-$ pnpm create runow your-app-name --template react-nextjs-tailwindcss
+$ pnpm create runow your-app-name --template react-next-tailwindcss
 ```
 
 ```bash [bun]
-$ bun create runow your-app-name --template react-nextjs-tailwindcss
+$ bun create runow your-app-name --template react-next-tailwindcss
 ```
 
 :::
@@ -67,19 +67,19 @@ Quick Start
 
 ```bash [npm]
 # npm 7+, extra double-dash is needed:
-$ npm create runow@latest your-app-name -- --template react-nextjs-nextui
+$ npm create runow@latest your-app-name -- --template react-next-nextui
 ```
 
 ```bash [yarn]
-$ yarn create runow your-app-name --template react-nextjs-nextui
+$ yarn create runow your-app-name --template react-next-nextui
 ```
 
 ```bash [pnpm]
-$ pnpm create runow your-app-name --template react-nextjs-nextui
+$ pnpm create runow your-app-name --template react-next-nextui
 ```
 
 ```bash [bun]
-$ bun create runow your-app-name --template react-nextjs-nextui
+$ bun create runow your-app-name --template react-next-nextui
 ```
 
 :::
@@ -96,19 +96,19 @@ Quick Start
 
 ```bash [npm]
 # npm 7+, extra double-dash is needed:
-$ npm create runow@latest your-app-name -- --template react-nextjs-headlessui
+$ npm create runow@latest your-app-name -- --template react-next-headlessui
 ```
 
 ```bash [yarn]
-$ yarn create runow your-app-name --template react-nextjs-headlessui
+$ yarn create runow your-app-name --template react-next-headlessui
 ```
 
 ```bash [pnpm]
-$ pnpm create runow your-app-name --template react-nextjs-headlessui
+$ pnpm create runow your-app-name --template react-next-headlessui
 ```
 
 ```bash [bun]
-$ bun create runow your-app-name --template react-nextjs-headlessui
+$ bun create runow your-app-name --template react-next-headlessui
 ```
 
 :::
@@ -125,19 +125,19 @@ Quick Start
 
 ```bash [npm]
 # npm 7+, extra double-dash is needed:
-$ npm create runow@latest your-app-name -- --template react-nextjs-shadcnui
+$ npm create runow@latest your-app-name -- --template react-next-shadcnui
 ```
 
 ```bash [yarn]
-$ yarn create runow your-app-name --template react-nextjs-shadcnui
+$ yarn create runow your-app-name --template react-next-shadcnui
 ```
 
 ```bash [pnpm]
-$ pnpm create runow your-app-name --template react-nextjs-shadcnui
+$ pnpm create runow your-app-name --template react-next-shadcnui
 ```
 
 ```bash [bun]
-$ bun create runow your-app-name --template react-nextjs-shadcnui
+$ bun create runow your-app-name --template react-next-shadcnui
 ```
 
 :::
