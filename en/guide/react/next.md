@@ -57,9 +57,9 @@ $ bun create runow your-app-name --template react-next-tailwindcss
 
 :::
 
-## NextUI
+## HeroUI
 
-<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="next-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
+<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="hero-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
 
 Quick Start
 
@@ -67,19 +67,19 @@ Quick Start
 
 ```bash [npm]
 # npm 7+, extra double-dash is needed:
-$ npm create runow@latest your-app-name -- --template react-next-nextui
+$ npm create runow@latest your-app-name -- --template react-next-heroui
 ```
 
 ```bash [yarn]
-$ yarn create runow your-app-name --template react-next-nextui
+$ yarn create runow your-app-name --template react-next-heroui
 ```
 
 ```bash [pnpm]
-$ pnpm create runow your-app-name --template react-next-nextui
+$ pnpm create runow your-app-name --template react-next-heroui
 ```
 
 ```bash [bun]
-$ bun create runow your-app-name --template react-next-nextui
+$ bun create runow your-app-name --template react-next-heroui
 ```
 
 :::

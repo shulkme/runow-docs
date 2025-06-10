@@ -54,9 +54,9 @@ export default [
     color: '000000',
   },
   {
-    label: 'NextUI',
-    icon: 'nextui',
-    value: 'next-ui',
+    label: 'HeroUI',
+    icon: 'heroui',
+    value: 'hero-ui',
     color: '000000',
   },
   {

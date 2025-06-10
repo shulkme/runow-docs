@@ -59,9 +59,9 @@ $ bun create runow your-app-name --template react-next-tailwindcss
 :::
 
 
-## Next UI
+## Hero UI
 
-<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="next-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
+<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="hero-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
 
 快速开始
 
@@ -69,19 +69,19 @@ $ bun create runow your-app-name --template react-next-tailwindcss
 
 ```bash [npm]
 # npm 7+，需要添加额外的 --：
-$ npm create runow@latest your-app-name -- --template react-next-nextui
+$ npm create runow@latest your-app-name -- --template react-next-heroui
 ```
 
 ```bash [yarn]
-$ yarn create runow your-app-name --template react-next-nextui
+$ yarn create runow your-app-name --template react-next-heroui
 ```
 
 ```bash [pnpm]
-$ pnpm create runow your-app-name --template react-next-nextui
+$ pnpm create runow your-app-name --template react-next-heroui
 ```
 
 ```bash [bun]
-$ bun create runow your-app-name --template react-next-nextui
+$ bun create runow your-app-name --template react-next-heroui
 ```
 
 :::

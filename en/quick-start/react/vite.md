@@ -11,7 +11,7 @@ layout: frame-layout
 <RadioCard href="/guide/react/vite.html#uno-css" label="UnoCSS" icon="https://cdn.svgporn.com/logos/unocss.svg" />
 <RadioCard href="/guide/react/vite.html#headless-ui" label="Headless UI" icon="https://cdn.svgporn.com/logos/headlessui-icon.svg" />
 <RadioCard href="/guide/react/vite.html#ant-design" label="Ant Design" icon="https://cdn.svgporn.com/logos/ant-design.svg" />
-<RadioCard href="/guide/react/vite.html#next-ui" label="Next UI" icon="https://simpleicons.org/icons/nextui.svg" />
+<RadioCard href="/guide/react/vite.html#hero-ui" label="Hero UI" icon="https://simpleicons.org/icons/heroui.svg" />
 <RadioCard href="/guide/react/next.html#shadcn-ui" label="Shadcn UI" icon="https://simpleicons.org/icons/shadcnui.svg" />
 <RadioCard href="/guide/react/next.html#charka-ui" label="Charka UI" icon="https://svgl.app/library/chakra-ui.svg" />
 <RadioCard href="/guide/react/next.html#mui" label="MUI" icon="https://svgl.app/library/materialui.svg" />
