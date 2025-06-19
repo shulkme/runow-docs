@@ -30,7 +30,7 @@ $ bun create runow your-app-name --template react-next
 :::
 
 
-## TailwindCSS
+## Tailwind CSS
 
 <LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
 
@@ -57,7 +57,7 @@ $ bun create runow your-app-name --template react-next-tailwindcss
 
 :::
 
-## HeroUI
+## Hero UI
 
 <LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="hero-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
 
@@ -86,7 +86,7 @@ $ bun create runow your-app-name --template react-next-heroui
 
 
 
-## HeadlessUI
+## Headless UI
 
 <LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="headless-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
 
@@ -115,7 +115,7 @@ $ bun create runow your-app-name --template react-next-headlessui
 
 
 
-## ShadcnUI
+## Shadcn UI
 
 <LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="shadcn-ui" /> <LogoBadge name="tailwindcss" /> <LogoBadge name="ts" />
 
@@ -142,3 +142,30 @@ $ bun create runow your-app-name --template react-next-shadcnui
 
 :::
 
+
+## Ant Design
+
+<LogoBadge name="react" /> <LogoBadge name="next-js" /> <LogoBadge name="antd" /> <LogoBadge name="lucide" /> <LogoBadge name="ts" />
+
+Quick Start
+
+::: code-group
+
+```bash [npm]
+# npm 7+, extra double-dash is needed:
+$ npm create runow@latest your-app-name -- --template react-next-antd
+```
+
+```bash [yarn]
+$ yarn create runow your-app-name --template react-next-antd
+```
+
+```bash [pnpm]
+$ pnpm create runow your-app-name --template react-next-antd
+```
+
+```bash [bun]
+$ bun create runow your-app-name --template react-next-antd
+```
+
+:::

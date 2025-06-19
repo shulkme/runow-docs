@@ -8,7 +8,7 @@ layout: frame-layout
 <RadioGroup>
 
 <RadioCard href="/zh/guide/react/next.html#blank" label="Blank" icon="https://cdn.svgporn.com/logos/css-3.svg" />
-<RadioCard href="/zh/guide/react/next.html#tailwindcss" label="Tailwind CSS" icon="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
+<RadioCard href="/zh/guide/react/next.html#tailwind-css" label="Tailwind CSS" icon="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
 <RadioCard href="/zh/guide/react/next.html#uno-css" label="UnoCSS" icon="https://cdn.svgporn.com/logos/unocss.svg" />
 <RadioCard href="/zh/guide/react/next.html#headless-ui" label="Headless UI" icon="https://cdn.svgporn.com/logos/headlessui-icon.svg" />
 <RadioCard href="/zh/guide/react/next.html#ant-design" label="Ant Design" icon="https://cdn.svgporn.com/logos/ant-design.svg" />
