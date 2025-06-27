@@ -8,8 +8,10 @@ layout: showcase-layout
 
 <ShowcaseGroup>
 
-<ShowcaseCard link="https://react-antd-admin.runow.dev/" title="React Antd Admin" author="Runow" cover="https://github.com/runowjs/react-antd-admin/raw/main/screenshots/users.png" description="一个开箱即用的中后台框架，由Runow开始并创建的" framework="react" />
-<ShowcaseCard link="https://react-admin-livid.vercel.app/" title="React Admin" author="Shulkme" cover="https://github.com/shulkme/react-admin/raw/main/public/screenshot.png" description="基于React开箱即用的企业级中后台框架" framework="react" />
-
+<ShowcaseCard link="https://react-antd-admin.runow.dev/" title="React Antd Admin" author="Runow" cover="/images/react-antd-admin.png" description="一个开箱即用的中后台框架，由Runow开始并创建的" framework="react" />
+<ShowcaseCard link="https://react-admin-livid.vercel.app/" title="React Admin" author="Shulkme" cover="/images/react-admin.png" description="基于React开箱即用的企业级中后台框架" framework="react" />
+<ShowcaseCard link="https://temporam.com" title="Temporam" author="Temporam" cover="/images/temporam.png" description="在线临时邮箱，短信接码服务" framework="react" />
+<ShowcaseCard link="https://soai.im" title="SOAI" author="SOAI" cover="/images/soai.im.png" description="在线探索AI网站导航" framework="react" />
+<ShowcaseCard link="https://guanshuyun.com" title="关数云AI" author="关数云" cover="/images/guanshuyun.png" description="AI智能分析海关客户数据" framework="react" />
 
 </ShowcaseGroup>
